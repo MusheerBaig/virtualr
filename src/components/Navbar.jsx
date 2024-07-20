@@ -61,16 +61,16 @@ const Navbar = () => {
                 </li>
               ))}
             </ul>
-            <div className='flex space-x-6'>
+            <div className='flex space-x-6 mt-6'>
               <a
                 href='#'
-                className='py-2 px-3 border rounded-md'
+                className='py-2 px-3 border rounded-md  max-xs:text-[0.8125rem]/[1.25rem] max-xs:px-[0.5rem]'
               >
                 Sign In
               </a>
               <a
                 href='#'
-                className='py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800'
+                className='py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800 max-xs:text-[0.8125rem]/[1.25rem] max-xs:px-[0.5rem]'
               >
                 Create an account
               </a>
