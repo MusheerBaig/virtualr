@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       screens: {
-        xs: "320px", // Custom breakpoint for extra small screens
+        xs: "370",
       },
     },
   },

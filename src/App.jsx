@@ -1,10 +1,10 @@
-import FeatureSection from "./components/FeatureSection";
-import Footer from "./components/Footer";
+import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
-import { Navbar } from "./components/Navbar";
+import FeatureSection from "./components/FeatureSection";
+import Workflow from "./components/Workflow";
+import Footer from "./components/Footer";
 import Pricing from "./components/Pricing";
 import Testimonials from "./components/Testimonials";
-import Workflow from "./components/Workflow";
 
 const App = () => {
   return (
